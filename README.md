@@ -104,7 +104,7 @@ const medeiros = {
 
 ## 📫 Contact
 
-<p align="center">
+<p>
 <a href="https://linkedin.com/daniel-silva-medeiros26">
 <img src="https://skillicons.dev/icons?i=linkedin">
 </a>
