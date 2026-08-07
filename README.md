@@ -51,7 +51,7 @@ const medeiros = {
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,php,csharp,kotlin"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,php,c#,kotlin"/>
 </p>
 
 ### 🌐 Front-End
