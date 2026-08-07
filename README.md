@@ -70,7 +70,7 @@ const medeiros = {
 
 <p align="center">
 
-<a href="https://linkedin.com/in/danielmedeiros-dev26">
+<a href="https://linkedin.com/in/daniel-silva-medeiros-dev26">
 <img src="https://skillicons.dev/icons?i=linkedin">
 </a>
 
