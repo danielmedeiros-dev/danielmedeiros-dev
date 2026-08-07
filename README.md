@@ -38,41 +38,82 @@ const medeiros = {
 
   interests: [
     "Artificial Intelligence",
-    "Cybersecurity",
+    "DataBase",
     "Web Development",
-    "Automation"
   ],
-
-  motto: "Learn. Build. Improve. Repeat."
 };
 ```
 
 ---
 
-## 🚀 Stack
+## 🚀 Tech Stack
 
-<p align="center">
+### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,php,mysql,html,css,git,github,vscode,linux,kotlin,java,csharp,vscode,ts,"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,php,csharp,kotlin"/>
+</p>
 
+### 🌐 Front-End
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
+</p>
+
+### ⚙️ Back-End
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,php"/>
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+### 📊 Data Analytics
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+### 🛠️ Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,ubuntu,arduino"/>
 </p>
 
 ---
 
 ## 💼 Featured Projects
 
+⭐ Controle Financeiro
+
+⭐ Diário Pessoal
+
+⭐ Sistema de Provas
+
+⭐ Chat Online
+
+⭐ API Python
+
+⭐ Dashboard Power BI
 
 ---
 
 ## 📫 Contact
 
-```javascript
-const contact = {
-  github: "https://github.com/danielmedeiros-dev",
-  linkedin: "https://linkedin.com/in/daniel-silva-medeiros26",
-  email: "dnlslvmedeiros@gmail.com"
-};
-```
+<p align="center">
+<a href="https://linkedin.com/daniel-silva-medeiros26">
+<img src="https://skillicons.dev/icons?i=linkedin">
+</a>
+
+<a href="mailto:dnlslvmedeiros@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail">
+</a>
+
+</p>
 
 ---
 
