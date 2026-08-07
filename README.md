@@ -1,8 +1,8 @@
 # SOFTWARE DEVELOPER 🤖
 
 ```javascript
-const medeiros = {
-  name: "Medeiros",
+const Daniel = {
+  name: "Daniel Medeiros",
   role: "Data Analytics Student",
   location: "Brazil",
 
