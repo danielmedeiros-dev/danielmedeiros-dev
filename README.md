@@ -53,7 +53,7 @@ const medeiros = {
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,php,mysql,html,css,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=python,js,php,mysql,html,css,git,github,vscode,linux,kotlin,java,csharp,vscode,ts,"/>
 
 </p>
 
@@ -61,26 +61,6 @@ const medeiros = {
 
 ## 💼 Featured Projects
 
-```javascript
-const featuredProjects = [
-  {
-    name: "Financial Control",
-    tech: ["PHP", "MySQL", "JavaScript"]
-  },
-  {
-    name: "Personal Diary",
-    tech: ["Python", "CustomTkinter"]
-  },
-  {
-    name: "Real-Time Chat",
-    tech: ["Node.js", "Socket.IO"]
-  },
-  {
-    name: "Power BI Dashboard",
-    tech: ["Power BI", "SQL"]
-  }
-];
-```
 
 ---
 
